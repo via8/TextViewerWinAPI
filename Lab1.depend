@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1567872887 source:c:\data\source\sourcecodeblocks\lab1\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1575132915 source:c:\data\source\sourcecodeblocks\lab1\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	"TextModel.h"
+	"Menu.h"
+	"Error.h"
+
+1572698530 source:c:\data\source\sourcecodeblocks\lab1\error.c
+	"Error.h"
+
+1572621048 c:\data\source\sourcecodeblocks\lab1\error.h
+	<stdio.h>
+
+1575132979 source:c:\data\source\sourcecodeblocks\lab1\textmodel.c
+	"TextModel.h"
+	<string.h>
+	<limits.h>
+	<math.h>
+
+1572639420 c:\data\source\sourcecodeblocks\lab1\textmodel.h
+	<windows.h>
+	<stdlib.h>
+	"Error.h"
+
+1572075997 c:\data\source\sourcecodeblocks\lab1\menu.h
+
+1571440899 source:c:\data\source\sourcecodeblocks\lab1\menu.rc
+	"Menu.h"
+
+1571486860 source:c:\data\source\sourcecodeblocks\lab1\fileopendialog.c
+	<windows.h>
+	<commdlg.h>
+
+1572698530 source:c:\data\source\codeblocks\lab1\error.c
+	"Error.h"
+
+1572621048 c:\data\source\codeblocks\lab1\error.h
+	<stdio.h>
+
+1575132915 source:c:\data\source\codeblocks\lab1\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	"TextModel.h"
+	"Menu.h"
+	"Error.h"
+
+1572639420 c:\data\source\codeblocks\lab1\textmodel.h
+	<windows.h>
+	<stdlib.h>
+	"Error.h"
+
+1572075997 c:\data\source\codeblocks\lab1\menu.h
+
+1571440899 source:c:\data\source\codeblocks\lab1\menu.rc
+	"Menu.h"
+
+1575132979 source:c:\data\source\codeblocks\lab1\textmodel.c
+	"TextModel.h"
+	<string.h>
+	<limits.h>
+	<math.h>
+
